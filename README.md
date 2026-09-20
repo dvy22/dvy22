@@ -1,10 +1,39 @@
-- 👋 Hi, I’m @dvy22
-- 👀 I’m interested in ...web development, Cybersecurity, AI, ingineering...
-- 🌱 I’m currently learning ...python and C programming
-- 💞️ I’m working actually on e-commerce website and streaming application
-- 📫 How to reach me : on linkedin linkedin.com/in/emmanuel-anderson-64627422b
+# Hi, I'm Davy 👋
 
-<!---
-dvy22/dvy22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Computer Engineering student interested in software development,
+web applications, AI and building useful digital products.
+
+### What I'm working with
+
+- 🐍 Python / Django
+- 💻 C / C++
+- 🌐 HTML / CSS / JavaScript
+- 🗄️ SQL & databases
+- 🤖 AI / RAG systems
+- 🔧 Git & GitHub
+
+### Currently learning
+
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Backend development
+- AI & NLP
+- Software engineering
+
+### Featured Projects
+
+🚀 **SELO**
+Education management platform designed for schools.
+
+🛒 **Pavé d'Or**
+E-commerce platform built with Django.
+
+🤖 **AI Document Assistant**
+Question-answering system for academic and administrative documents.
+
+### About me
+
+I'm interested in turning ideas into practical software
+and progressively building products of my own.
+
+📫 Connect with me on LinkedIn
