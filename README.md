@@ -1,4 +1,4 @@
-# Davy Anderson
+# Davy Emmanuel Anderson
 ### Computer Engineer · Founder, Opus Stellar CI
 
 I design and build web applications and business software that help organizations run their operations and structure their data. I am the founder of **Opus Stellar CI**, a software company serving businesses and institutions in Côte d'Ivoire.
