@@ -1,39 +1,38 @@
-# Hi, I'm Davy 👋
+# Davy Anderson
+**Software Developer · Computer Engineering Student**
 
-I'm a Computer Engineering student interested in software development,
-web applications, AI and building useful digital products.
+I develop web applications and business software, with a focus on backend development, data management, and practical business needs.
 
-### What I'm working with
+I am building **Opus Stellar CI**, a software development company serving businesses and institutions in Côte d’Ivoire.
 
-- 🐍 Python / Django
-- 💻 C / C++
-- 🌐 HTML / CSS / JavaScript
-- 🗄️ SQL & databases
-- 🤖 AI / RAG systems
-- 🔧 Git & GitHub
+## Technical Skills
 
-### Currently learning
+## Technical Expertise
 
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Backend development
-- AI & NLP
-- Software engineering
+- **Backend Development:** Python, Django, authentication, and application business logic.
+- **Web Development:** HTML, CSS, and JavaScript for responsive web interfaces.
+- **Database Management:** SQL, relational data modeling, and database integration.
+- **Document AI:** Document question-answering applications using retrieval-augmented generation (RAG).
+- **Development Workflow:** Git and GitHub for version control and collaboration.
+- **Areas of interest:** SaaS development, document AI, retrieval-augmented generation (RAG)
 
-### Featured Projects
+## Projects
 
-🚀 **SELO**
-Education management platform designed for schools.
+**SELO**  
+A school management and learning platform designed to centralize administrative operations, academic records, and communication.
 
-🛒 **Pavé d'Or**
-E-commerce platform built with Django.
+**Pavé d’Or**  
+A Django-based e-commerce project for a footwear brand, with product catalog and inventory management.
 
-🤖 **AI Document Assistant**
-Question-answering system for academic and administrative documents.
+**AI Document Assistant**  
+A document question-answering project exploring RAG for academic and administrative information.
 
-### About me
+These are my most recent projects. I have also developed a range of other applications across web development, business software, and academic work.
 
-I'm interested in turning ideas into practical software
-and progressively building products of my own.
+## Current Focus
 
-📫 Connect with me on LinkedIn
+Strengthening my knowledge of software architecture, data structures, algorithms, and backend engineering while developing software products through Opus Stellar CI.
+
+## Contact
+
+[Opus Stellar CI — opusstellar.com](https://opusstellar.com/)
