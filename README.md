@@ -1,38 +1,29 @@
-# Davy Anderson
-**Software Developer · Computer Engineering Student**
+Davy Anderson
+Computer Engineer · Founder, Opus Stellar CI
 
-I develop web applications and business software, with a focus on backend development, data management, and practical business needs.
+I design and build web applications and business software that help organizations run their operations and structure their data. I am the founder of Opus Stellar CI, a software company serving businesses and institutions in Côte d’Ivoire.
 
-I am building **Opus Stellar CI**, a software development company serving businesses and institutions in Côte d’Ivoire.
+Core Skills
 
-## Technical Skills
+Backend: Python, Django, authentication, business logic, REST APIs
+Frontend: HTML, CSS, JavaScript, responsive interfaces
+Data: SQL, relational modeling, database integration
+Applied AI: Retrieval-Augmented Generation (RAG) for document question-answering
+Workflow: Git, GitHub, Render, docker.
 
-## Technical Expertise
+Selected Projects
 
-- **Backend Development:** Python, Django, authentication, and application business logic.
-- **Web Development:** HTML, CSS, and JavaScript for responsive web interfaces.
-- **Database Management:** SQL, relational data modeling, and database integration.
-- **Document AI:** Document question-answering applications using retrieval-augmented generation (RAG).
-- **Development Workflow:** Git and GitHub for version control and collaboration.
-- **Areas of interest:** SaaS development, document AI, retrieval-augmented generation (RAG)
+SELO — School management and learning platform
+Centralizes administration, academic records and school–teacher–family communication. Django, SQL. [Status: Developpement in progress] · 
 
-## Projects
+Pavé d’Or — E-commerce platform for a footwear brand
+Product catalog, inventory management and ordering. Django. [deployment in progress]
 
-**SELO**  
-A school management and learning platform designed to centralize administrative operations, academic records, and communication.
+AI Document Assistant — RAG-based Q&A on academic and administrative documents
+Lets users query large document sets in natural language. Python, RAG. 
 
-**Pavé d’Or**  
-A Django-based e-commerce project for a footwear brand, with product catalog and inventory management.
+→ More projects on private github page
 
-**AI Document Assistant**  
-A document question-answering project exploring RAG for academic and administrative information.
-
-These are my most recent projects. I have also developed a range of other applications across web development, business software, and academic work.
-
-## Current Focus
-
-Strengthening my knowledge of software architecture, data structures, algorithms, and backend engineering while developing software products through Opus Stellar CI.
-
-## Contact
-
-[Opus Stellar CI — opusstellar.com](https://opusstellar.com/)
+Work With Me
+Need custom software for your organization? Let’s talk.
+opusstellar.com · emmanuelanderson220@gmail.com · 
