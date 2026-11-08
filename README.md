@@ -13,9 +13,9 @@ I design and build web applications and business software that help organization
 
 ## Selected Projects
 
-### SELO: School management platform
-Centralizes administration, academic records and school–teacher–family communication.
-`Django` `SQL` · *In development*
+### SELO: Multi-tenant school management SaaS
+Centralizes administration, academic records and school–teacher–family communication for multiple schools on a single platform, with role-based access.
+`Django` `PostgreSQL` · *In development*
 
 ### Pavé d'Or: E-commerce platform
 Product catalog, inventory management and ordering for a footwear brand.
